@@ -215,6 +215,32 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Keep manually added Substack icon aligned with the socials row.
+.social .contact-icons a .substack-light,
+.social .contact-icons a .substack-dark,
+.navbar-brand.social a .substack-light,
+.navbar-brand.social a .substack-dark {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.social .contact-icons a .substack-dark,
+.navbar-brand.social a .substack-dark {
+  display: none;
+}
+
+html[data-theme="dark"] {
+  .social .contact-icons a .substack-light,
+  .navbar-brand.social a .substack-light {
+    display: none;
+  }
+
+  .social .contact-icons a .substack-dark,
+  .navbar-brand.social a .substack-dark {
+    display: inline-block;
+  }
+}
+
 .wechat-modal {
   display: none;
   position: fixed;
