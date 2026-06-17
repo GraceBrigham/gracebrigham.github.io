@@ -82,7 +82,13 @@ layout: default
     <!-- Social -->
     {% if page.social %}
       <div class="social">
-        <div class="contact-icons">{% social_links %}</div>
+        <div class="contact-icons">
+          {% social_links %}
+          <a href="https://substack.com/@gracebrigham" title="Substack" aria-label="Substack" target="_blank" rel="noopener noreferrer">
+            <img class="substack-light" src="{{ '/assets/img/social/substack-black.svg' | relative_url }}" alt="Substack">
+            <img class="substack-dark" src="{{ '/assets/img/social/substack-white.svg' | relative_url }}" alt="" aria-hidden="true">
+          </a>
+        </div>
 
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
