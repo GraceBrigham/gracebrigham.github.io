@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-03'
 papers:
   d4ryHyEAAAAJ:9yKSN-GCB0IC:
-    citations: 25
+    citations: 24
     title: "Developing Story: Case Studies of Generative AI\u2019s Use in Journalism"
     year: '2024'
   d4ryHyEAAAAJ:IjCSPb-OGe4C:
@@ -10,15 +10,15 @@ papers:
     title: Examining risks in the AI companion application ecosystem
     year: '2026'
   d4ryHyEAAAAJ:d1gkVwhDpl0C:
-    citations: 37
-    title: Analyzing the AI nudification application ecosystem
-    year: '2024'
+    citations: 39
+    title: Analyzing the {AI} nudification application ecosystem
+    year: '2025'
   d4ryHyEAAAAJ:qjMakFHDy7sC:
-    citations: 3
-    title: "Biased AI Outputs Can Impact Humans\u2019 Implicit Bias: A Case Study of the Impact of Gender-Biased Text-to-Image Generators"
+    citations: 4
+    title: "Biased AI outputs can impact humans\u2019 implicit bias: A case study of the impact of gender-biased text-to-image generators"
     year: '2025'
   d4ryHyEAAAAJ:u5HHmVD_uO8C:
-    citations: 44
+    citations: 45
     title: '"Violation of my body:" Perceptions of AI-generated non-consensual (intimate) imagery'
     year: '2024'
   d4ryHyEAAAAJ:zYLM7Y9cAGgC:
