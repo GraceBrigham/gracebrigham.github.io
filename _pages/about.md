@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Natalie, but most people call me by my middle name, Grace :) I am a first year PhD student in Computer Science at the University of Washington (go dawgs!), where I am advised by [Yoshi Kohno](https://sites.google.com/view/yoshi-kohno/). I'm interested in understanding and mitigating sociotechnical harms of emerging technologies, particularly AI. This summer, I'm a Google Policy Fellow at [New America's Open Technology Institute](https://www.newamerica.org/programs/open-technology-institute/).
+My name is Natalie, but most people call me by my middle name, Grace :) I am a second year PhD student in Computer Science at the University of Washington (go dawgs!), where I am advised by [Yoshi Kohno](https://sites.google.com/view/yoshi-kohno/). I'm interested in understanding and mitigating sociotechnical harms of emerging technologies, particularly AI. During my PhD, I've also worked as a Google Policy Fellow at [New America's Open Technology Institute](https://www.newamerica.org/programs/open-technology-institute/).
 
 You can learn more about me in my <a href="/assets/pdf/BrighamCV.pdf" target="blank">CV</a>.
 
